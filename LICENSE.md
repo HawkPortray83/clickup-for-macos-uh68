@@ -1,4 +1,4 @@
-#  
+#  ClickUp for macOS top Plugin - calendar integration and widgets offers the most advanced ClickUp for macOS plugin, with calendar integration and widgets. Ideal for professionals.
 
 
 
